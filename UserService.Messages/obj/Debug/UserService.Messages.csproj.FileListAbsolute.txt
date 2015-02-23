@@ -1,0 +1,8 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\bin\Debug\UserService.Messages.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\bin\Debug\UserService.Messages.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\bin\Debug\NServiceBus.Core.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\bin\Debug\NServiceBus.Core.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\bin\Debug\NServiceBus.Core.xml
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\obj\Debug\UserService.Messages.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService.Messages\obj\Debug\UserService.Messages.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\NServiceBus\UserService.Messages\obj\Debug\UserService.Messages.csprojResolveAssemblyReference.cache

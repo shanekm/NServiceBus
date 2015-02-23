@@ -1,0 +1,14 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\UserService.dll.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\UserService.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\UserService.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Core.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Host.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\UserService.Messages.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\UserService.Messages.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Core.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Core.xml
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Host.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\bin\Debug\NServiceBus.Host.xml
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\obj\Debug\UserService.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\NServiceBus\UserService\obj\Debug\UserService.pdb

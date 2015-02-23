@@ -1,0 +1,8 @@
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\bin\Debug\log4net.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\bin\Debug\log4net.xml
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache

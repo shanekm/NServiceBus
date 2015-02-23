@@ -1,0 +1,14 @@
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\WelcomeEmailService.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\WelcomeEmailService.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Core.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Host.exe
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\UserService.Messages.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\UserService.Messages.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Core.xml
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\NServiceBus.Host.xml
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\obj\Debug\WelcomeEmailService.csprojResolveAssemblyReference.cache
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\obj\Debug\WelcomeEmailService.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\obj\Debug\WelcomeEmailService.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\NServiceBus\WelcomeEmailService\bin\Debug\WelcomeEmailService.dll.config

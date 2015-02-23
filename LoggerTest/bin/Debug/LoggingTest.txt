@@ -1,0 +1,5 @@
+[Header]\r\n2015-01-21 10:55:50,350 [10] INFO  LoggerTest.Program ... and an Info log.
+2015-01-21 10:55:50,357 [10] WARN  LoggerTest.Program ... and a warning.
+2015-01-21 10:55:50,358 [10] ERROR LoggerTest.Program ... and an error.
+2015-01-21 10:56:09,263 [10] FATAL LoggerTest.Program ... and a fatal error.
+[Footer]\r\n
